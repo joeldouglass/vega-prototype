@@ -1,2 +1,6 @@
-# vega-prototype
-Prototype for how one might use Vega in a CMS implementation.
+## Vega CMS Integration Prototype
+
+```bash
+$ npm install
+$ gulp
+```
